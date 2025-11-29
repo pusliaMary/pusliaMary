@@ -3,7 +3,6 @@
 My name is Maria
 
 I'm a front-end developer. 
-I have generic knowledge of JavaScript and React/Redux.
 
 ## My pet projects
 
