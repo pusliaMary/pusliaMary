@@ -2,13 +2,13 @@
 
 My name is Maria
 
-I'm a front-end developer. 
+I'm a front-end developer
 
 ## My pet projects
 
 Now I work on my pet projects devoted to ecology, healthy nutrition, self-accountability and personal investment
 
-The first project is giong to be a complex education platform to teach people how to reduce their ecological footprint,
+The first project is going to be a complex education platform to teach people how to reduce their ecological footprint,
 including issues description, effective empirical solutions, eco-store and ecological video-game
 
 The second project will make easier to people to buy healthy food and cook it in an easy way
