@@ -4,17 +4,6 @@ My name is Maria
 
 I'm a front-end developer
 
-## My pet projects
-
-Now I work on my pet projects devoted to ecology, healthy nutrition, self-accountability and personal investment
-
-The first project is going to be a complex education platform to teach people how to reduce their ecological footprint,
-including issues description, effective empirical solutions, eco-store and ecological video-game
-
-The second project will make easier to people to buy healthy food and cook it in an easy way
-
-Self-accountability app is going to teach people to plan their life from easy to-do list to the entire personal life-management strategy
-
 ## My background
 
 I don't have tech related higher education, but I have economic (advanced mathematics included) and law degrees
@@ -24,6 +13,23 @@ I don't have tech related higher education, but I have economic (advanced mathem
 HTML/CSS  JS   REACT/Redux toolkit   GSAP   Bootstrap   Figma   Manual testing
 
 Now I'm learning Node.js, TypeScript. Next.js and Flutter are going to be next
+
+## My pet projects
+
+Now I work on my pet projects devoted to ecology, healthy nutrition, self-accountability and personal investment
+
+The first project is going to be a complex education platform to teach people how to reduce their ecological footprint,
+including issues description, effective empirical solutions, eco-store and ecological video-game
+https://github.com/pusliaMary/EcoStore.git
+
+The second project will make easier to people to buy healthy food and cook it in an easy way
+https:// in development, conceptual stage
+
+Self-accountability app is going to teach people to plan their life from easy to-do list to the entire personal life-management strategy
+https://github.com/pusliaMary/Progress.git
+
+Personal investment app now shows the power of compound interest only
+https://github.com/pusliaMary/Couple-Investment.git
 
 ## Soft skills
 
