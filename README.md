@@ -2,17 +2,17 @@
 
 My name is Maria
 
-I'm a front-end developer
+I'm a frontend/fullstack (node.js) developer
 
 ## My background
 
-I don't have tech related higher education, but I have economic (advanced mathematics included) and law degrees
+I don't have tech specialised higher education, but I have economic (advanced mathematics included) and law degrees
 
 ## Hard skills
 
-HTML/CSS  JS   REACT/Redux toolkit   GSAP   Bootstrap   Figma   Manual testing
+HTML/CSS(SASS)  JS   REACT/Redux toolkit   GSAP   Bootstrap   Figma   Manual testing   Node.js   Express.js   FSD   TypeScript  
 
-Now I'm learning Node.js, TypeScript. Next.js and Flutter are going to be next
+Now I'm learning Flutter, SQL.
 
 ## My pet projects
 
