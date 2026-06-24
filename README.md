@@ -8,13 +8,13 @@ My portfolio https://portfolio-maria-prusakova.netlify.app/
 
 ## My background
 
-I don't have tech specialised higher education, but I have economic (advanced mathematics included) and law degrees
+I don't have tech specialised higher education, but I've got economic (advanced mathematics included) and law degrees
 
 ## Hard skills
 
-HTML/CSS(SASS)  JS   REACT/Redux toolkit   GSAP   Bootstrap   Figma   Manual testing   Node.js   Express.js   FSD   TypeScript  
+HTML/CSS(SASS)  JS   REACT/Redux toolkit   GSAP   Bootstrap   Figma   Manual testing   Node.js   Express.js   TypeScript  FSD 
 
-Now I'm learning Flutter, SQL.
+Now I'm learning Flutter, SQL, automation testing with Python.
 
 ## My pet projects
 
@@ -37,7 +37,7 @@ https://github.com/pusliaMary/Couple-Investment.git
 
 I love learning, solving problems. I am reasonable, accustomed to making decisions and taking responsibility.
 I have experience managing groups of people (not in IT area).
-I am empathetic, persistent, resilient, curious, optimistic, stable in crisis situations, and with the right experience, I am able to identify key tasks.
+I am empathetic, persistent, resilient, curious, optimistic, stable in crisis situations, and with the right experience, I am able to identify the key tasks.
 
 ## Lang
 
@@ -46,8 +46,8 @@ English B2/C1
 
 ## My eagerness
 
-I'm eager to work. I'd like to get broad on hands experience in software engineering.
-I want to learn modern approaches to create websites and applications. 
+I'm eager to work. I'd like to get broad on hands experience in software engineering, data science.
+I want to learn modern approaches to create websites and applications, databases. 
 I'm addicted to gamification and complicated animation technologies.
 
 ## How to reach me
