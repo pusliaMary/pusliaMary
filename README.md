@@ -4,6 +4,8 @@ My name is Maria
 
 I'm a frontend/fullstack (node.js) developer
 
+My portfolio https://portfolio-maria-prusakova.netlify.app/
+
 ## My background
 
 I don't have tech specialised higher education, but I have economic (advanced mathematics included) and law degrees
