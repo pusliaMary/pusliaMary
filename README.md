@@ -4,7 +4,7 @@ Hi there! My name is Maria. I build responsive, high-performance web application
 
 Leveraging my professional background in **Economics (including Advanced Mathematics)** and **Law**, I am highly skilled at deeply analyzing complex requirements, structuring robust business logic, and approaching architectural design systematically. I am proactive in making decisions, taking full responsibility for results and team outcomes, and I maintain high emotional stability in any crisis situation.
 
-My portfolio
+## My portfolio
 
 ### https://portfolio-maria-prusakova.netlify.app/
 ---
