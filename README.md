@@ -12,26 +12,42 @@ I don't have tech specialised degree, but I recieved economic (advanced mathemat
 
 ## Hard skills
 
-HTML/CSS(SASS)  JS   REACT/Redux toolkit   GSAP   Bootstrap   Figma   Manual testing   Node.js   Express.js   TypeScript  FSD 
+HTML/CSS(SASS)  JS   REACT/Redux toolkit   GSAP   Mobile-first   Figma   Manual testing   Node.js   Express.js   TypeScript  FSD  MongoDB
 
 Now I'm learning Flutter, SQL, automation testing with Python.
 
 ## My pet projects
 
-Now I work on my pet projects devoted to ecology, healthy nutrition, self-accountability and personal investment
+Now I work on my commercial and pet projects devoted to ecology, healthy nutrition, self-accountability and personal investment
 
-The first project is going to be a complex education platform to teach people how to reduce their ecological footprint,
+The first project is a lightweight, responsive web application designed for quick recipe discovery and minimal-effort meal planning. 
+Built with performance and clean code in mind, it delivers a seamless user experience using a modern frontend stack and efficient state management. 
+Optimized for fast loading including Cloudinary images storage
+
+Demo: https://lazy-cooking.netlify.app/
+Code: https://github.com/pusliaMary/Easy-cooking-frontend.git
+
+Commercial app for professional designer. Complex user experience logic has been implemented in the portfolio section. 
+An admin panel with authentication has been developed for the app owner
+
+Demo: https://designer-olesya-martin.netlify.app/
+Code: https://github.com/pusliaMary/Easy-cooking-frontend.git](https://github.com/pusliaMary/Designer-frontend.git
+
+Complex education platform to teach people how to reduce their ecological footprint,
 including issues description, effective empirical solutions, eco-store and ecological video-game
-https://github.com/pusliaMary/EcoStore.git
 
-The second project will make easier to people to buy healthy food and cook it in an easy way
-https:// in development, conceptual stage
+Demo: https://shop-eco-friendly.netlify.app/
+Code: https://github.com/pusliaMary/EcoStore.git
 
 Self-accountability app is going to teach people to plan their life from easy to-do list to the entire personal life-management strategy
-https://github.com/pusliaMary/Progress.git
+
+Demo: https://progress-accountability.netlify.app/EasyMode
+Code: https://github.com/pusliaMary/Progress.git
 
 Personal investment app now shows the power of compound interest only
-https://github.com/pusliaMary/Couple-Investment.git
+
+Demo: https://couple-investment.netlify.app/
+Code: https://github.com/pusliaMary/Couple-Investment.git
 
 ## Soft skills
 
@@ -43,6 +59,7 @@ I am empathetic, persistent, resilient, curious, optimistic, stable in crisis si
 
 Russian native
 English B2/C1
+French A1
 
 ## My eagerness
 
