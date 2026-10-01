@@ -31,7 +31,7 @@ Commercial app for professional designer. Complex user experience logic has been
 An admin panel with authentication has been developed for the app owner
 
 Demo: https://designer-olesya-martin.netlify.app/
-Code: https://github.com/pusliaMary/Easy-cooking-frontend.git](https://github.com/pusliaMary/Designer-frontend.git
+Code: https://github.com/pusliaMary/Designer-frontend.git
 
 Complex education platform to teach people how to reduce their ecological footprint,
 including issues description, effective empirical solutions, eco-store and ecological video-game
