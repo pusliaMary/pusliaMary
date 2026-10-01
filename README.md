@@ -8,7 +8,7 @@ My portfolio https://portfolio-maria-prusakova.netlify.app/
 
 ## My background
 
-I don't have tech specialised higher education, but I've got economic (advanced mathematics included) and law degrees
+I don't have tech specialised degree, but I recieved economic (advanced mathematics included) and law ones
 
 ## Hard skills
 
