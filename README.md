@@ -6,7 +6,7 @@ Leveraging my professional background in **Economics (including Advanced Mathema
 
 My portfolio
 
-https://portfolio-maria-prusakova.netlify.app/
+### https://portfolio-maria-prusakova.netlify.app/
 ---
 
 ## 🛠 Hard Skills
