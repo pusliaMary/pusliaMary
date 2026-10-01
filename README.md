@@ -1,82 +1,153 @@
-# Hello
+# 👩‍💻 Maria | Frontend & Fullstack (Node.js) Developer
 
-My name is Maria
+Привет! Меня зовут Мария. Я создаю отзывчивые, быстрые веб-приложения с упором на чистый код, современную архитектуру и продуманный UX/UI. 
 
-I'm a frontend/fullstack (node.js) developer
+Благодаря моему бэкграунду в **экономике (включая высшую математику)** и **юриспруденции**, я умею глубоко анализировать требования, выстраивать сложную бизнес-логику и подходить к решению архитектурных задач системно. Я не боюсь принимать решения, брать на себя ответственность за результат и стабильна в кризисных ситуациях.
 
-My portfolio https://portfolio-maria-prusakova.netlify.app/
+---
 
-## My background
+## 🛠 Hard Skills
 
-I don't have tech specialised degree, but I recieved economic (advanced mathematics included) and law ones
+*   **Frontend:** HTML5, CSS3 / SASS, JavaScript (ES6+), TypeScript, React, Redux Toolkit
+*   **Анимация и дизайн:** GSAP, Figma, Mobile-first дизайн
+*   **Backend & DB:** Node.js, Express.js, MongoDB
+*   **Архитектура & Тестирование:** Feature-Sliced Design (FSD), Ручное тестирование (Manual Testing)
+*   **В процессе активного изучения:** Flutter / Dart, SQL (PostgreSQL), Автоматизация тестирования (Python)
 
-## Hard skills
+---
 
-HTML/CSS(SASS)  JS   REACT/Redux toolkit   GSAP   Mobile-first   Figma   Manual testing   Node.js   Express.js   TypeScript  FSD  MongoDB
+## 🚀 Мои проекты
 
-Now I'm learning Flutter, SQL, automation testing with Python.
+### 🍳 [Lazy Cooking](https://netlify.app)
+Легковесное веб-приложение для быстрого поиска рецептов и планирования меню с минимальными усилиями.
+*   **Стек:** React, Redux Toolkit, Cloudinary (оптимизированное хранение изображений).
+*   **Особенности:** Высокая производительность, чистый код, быстрая загрузка медиа-ресурсов.
+*   **Код:** [GitHub Repository](https://github.com)
 
-## My pet projects
+### 🎨 [Olesya Martin Designer Portfolio](https://netlify.app)
+Коммерческое приложение-портфолио для профессионального дизайнера.
+*   **Стек:** React, Node.js, Express, MongoDB.
+*   **Особенности:** Реализована сложная логика пользовательского интерфейса в галерее и портфолио. Разработана защищенная панель администратора с авторизацией для владельца сайта.
+*   **Код:** [GitHub Repository](https://github.com)
 
-Now I work on my commercial and pet projects devoted to ecology, healthy nutrition, self-accountability and personal investment
+### 🌱 [EcoStore & EcoEducationPlatform](https://netlify.app)
+Комплексная образовательная эко-платформа, призванная научить людей снижать свой экологический след.
+*   **Стек:** React, Node.js, Express, архитектура Feature-Sliced Design (FSD).
+*   **Особенности:** Включает интерактивный разбор экологических проблем, практические эмпирические решения, полноценный эко-магазин и концепт встроенной экологической видеоигры.
+*   **Код:** [GitHub Repository](https://github.com)
 
-The first project is a lightweight, responsive web application designed for quick recipe discovery and minimal-effort meal planning. 
-Built with performance and clean code in mind, it delivers a seamless user experience using a modern frontend stack and efficient state management. 
-Optimized for fast loading including Cloudinary images storage
+### 🎯 [Progress (Self-Accountability App)](https://netlify.app)
+Приложение для личной эффективности и самоотчетности, помогающее планировать жизнь — от простых ежедневных списков дел до масштабных долгосрочных стратегий управления жизнью.
+*   **Стек:** React, TypeScript.
+*   **Код:** [GitHub Repository](https://github.com)
 
-Demo: https://lazy-cooking.netlify.app/
-Code: https://github.com/pusliaMary/Easy-cooking-frontend.git
+### 📈 [Couple Investment](https://netlify.app)
+Финансово-инвестиционное приложение, наглядно демонстрирующее работу и силу сложного процента.
+*   **Стек:** React, JavaScript.
+*   **Код:** [GitHub Repository](https://github.com)
 
-Commercial app for professional designer. Complex user experience logic has been implemented in the portfolio section. 
-An admin panel with authentication has been developed for the app owner
+---
 
-Demo: https://designer-olesya-martin.netlify.app/
-Code: https://github.com/pusliaMary/Designer-frontend.git
+## 🎯 Стратегический Roadmap развития (2026–2027)
 
-Complex education platform to teach people how to reduce their ecological footprint,
-including issues description, effective empirical solutions, eco-store and ecological video-game
+# 👩‍💻 Maria | Frontend & Fullstack (Node.js) Developer
 
-Demo: https://shop-eco-friendly.netlify.app/
-Code: https://github.com/pusliaMary/EcoStore.git
+Привет! Меня зовут Мария. Я создаю отзывчивые, быстрые веб-приложения с упором на чистый код, современную архитектуру и продуманный UX/UI. 
 
-Self-accountability app is going to teach people to plan their life from easy to-do list to the entire personal life-management strategy
+Благодаря моему бэкграунду в **экономике (включая высшую математику)** и **юриспруденции**, я умею глубоко анализировать требования, выстраивать сложную бизнес-логику и подходить к решению архитектурных задач системно. Я не боюсь принимать решения, брать на себя ответственность за результат и стабильна в кризисных ситуациях.
 
-Demo: https://progress-accountability.netlify.app/EasyMode
-Code: https://github.com/pusliaMary/Progress.git
+---
 
-Personal investment app now shows the power of compound interest only
+## 🛠 Hard Skills
 
-Demo: https://couple-investment.netlify.app/
-Code: https://github.com/pusliaMary/Couple-Investment.git
+*   **Frontend:** HTML5, CSS3 / SASS, JavaScript (ES6+), TypeScript, React, Redux Toolkit
+*   **Анимация и дизайн:** GSAP, Figma, Mobile-first дизайн
+*   **Backend & DB:** Node.js, Express.js, MongoDB
+*   **Архитектура & Тестирование:** Feature-Sliced Design (FSD), Ручное тестирование (Manual Testing)
+*   **В процессе активного изучения:** Flutter / Dart, SQL (PostgreSQL), Автоматизация тестирования (Python)
 
-## Soft skills
+---
 
-I love learning, solving problems. I am reasonable, accustomed to making decisions and taking responsibility.
-I have experience managing groups of people (not in IT area).
-I am empathetic, persistent, resilient, curious, optimistic, stable in crisis situations, and with the right experience, I am able to identify the key tasks.
+## 🚀 Мои проекты
 
-## Lang
+### 🍳 [Lazy Cooking](https://netlify.app)
+Легковесное веб-приложение для быстрого поиска рецептов и планирования меню с минимальными усилиями.
+*   **Стек:** React, Redux Toolkit, Cloudinary (оптимизированное хранение изображений).
+*   **Особенности:** Высокая производительность, чистый код, быстрая загрузка медиа-ресурсов.
+*   **Код:** [GitHub Repository](https://github.com)
 
-Russian native
-English B2/C1
-French A1
+### 🎨 [Olesya Martin Designer Portfolio](https://netlify.app)
+Коммерческое приложение-портфолио для профессионального дизайнера.
+*   **Стек:** React, Node.js, Express, MongoDB.
+*   **Особенности:** Реализована сложная логика пользовательского интерфейса в галерее и портфолио. Разработана защищенная панель администратора с авторизацией для владельца сайта.
+*   **Код:** [GitHub Repository](https://github.com)
 
-## My eagerness
+### 🌱 [EcoStore & EcoEducationPlatform](https://netlify.app)
+Комплексная образовательная эко-платформа, призванная научить людей снижать свой экологический след.
+*   **Стек:** React, Node.js, Express, архитектура Feature-Sliced Design (FSD).
+*   **Особенности:** Включает интерактивный разбор экологических проблем, практические эмпирические решения, полноценный эко-магазин и концепт встроенной экологической видеоигры.
+*   **Код:** [GitHub Repository](https://github.com)
 
-I'm eager to work. I'd like to get broad on hands experience in software engineering, data science.
-I want to learn modern approaches to create websites and applications, databases. 
-I'm addicted to gamification and complicated animation technologies.
+### 🎯 [Progress (Self-Accountability App)](https://netlify.app)
+Приложение для личной эффективности и самоотчетности, помогающее планировать жизнь — от простых ежедневных списков дел до масштабных долгосрочных стратегий управления жизнью.
+*   **Стек:** React, TypeScript.
+*   **Код:** [GitHub Repository](https://github.com)
 
-## How to reach me
+### 📈 [Couple Investment](https://netlify.app)
+Финансово-инвестиционное приложение, наглядно демонстрирующее работу и силу сложного процента.
+*   **Стек:** React, JavaScript.
+*   **Код:** [GitHub Repository](https://github.com)
 
-Email: pusliaprus@gmail.com
-GitHub: https://github.com/pusliaMary
-Telegram: https://t.me/mashaavdp
+---
 
-## Special thanks
+## 🎯 Стратегический Roadmap развития (2026–2027)
 
-CanSheCode - alma Mater
+[ Этап 1: Backend & SQL ] ──> [ Этап 2: Python, QA & Flutter ] ──> [ Этап 3: Data Science & ML ]
+│
+└───> [ Ветка: Геймификация & 3D Анимация ]
 
-CosdenSolutions
+### 🗓 Этап 1: Продвинутый Backend & Реляционные БД (Фокус: 1–3 мес)
+*   **Технологии:** PostgreSQL, Prisma ORM / Sequelize, Чистая архитектура (Clean Architecture / DDD на бэкенде), Jest / Vitest (Unit-тесты).
+*   **Практика:** Перенос баз данных проектов `Couple Investment` и `Progress` с MongoDB на PostgreSQL для обеспечения строгой структуры данных. Покрытие финансовой логики юнит-тестами.
 
-Result University
+### 🐍 Этап 2: Python, Автоматизация & Mobile (Фокус: 3–6 мес)
+*   **Технологии:** Dart & Flutter, Python, PyTest, Playwright.
+*   **Практика:** Разработка мобильного клиента для трекера целей `Progress` на Flutter с упором на плавные мобильные анимации. Написание сквозных (e2e) автотестов на Python для проектов `Lazy Cooking` и коммерческого кейса портфолио дизайнера.
+
+### 📊 Этап 3: Data Science & Machine Learning (Фокус: 6+ мес)
+*   **Технологии:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn.
+*   **Практика:** Интеграция интерактивных графиков и результатов разведочного анализа данных (EDA) экологических показателей в `EcoStore`. Создание модели прогнозирования накоплений в `Couple Investment` на основе исторических финансовых трендов.
+
+### 🎮 Параллельный трек: Геймификация & Сложная анимация
+*   **Технологии:** WebGL, Three.js, React Three Fiber (R3F), продвинутый GSAP.
+*   **Практика:** Создание полноценной интерактивной 3D или Canvas микро-игры на экологическую тематику внутри платформы `EcoStore`.
+
+---
+
+## 📈 Чек-лист прогресса
+
+- [x] Базовый Fullstack стек (HTML, CSS/SASS, JS, React/Redux Toolkit, Node.js, Express, MongoDB)
+- [x] Архитектурная методология Feature-Sliced Design (FSD)
+- [ ] Глубокое понимание SQL и оптимизации запросов (PostgreSQL)
+- [ ] Автоматизация веб-тестирования (Python + Playwright)
+- [ ] Кроссплатформенная мобильная разработка (Flutter)
+- [ ] Анализ данных и основы машинного обучения (Pandas, Scikit-Learn)
+- [ ] Создание 3D-сцен в браузере (Three.js / Canvas)
+
+---
+
+## 🧠 Soft Skills & Качества
+*   Высокая скорость обучения, аналитический склад ума и страсть к решению сложных инженерных задач.
+*   Разумность в принятии решений, умение брать ответственность за результат.
+*   Опыт управления группами людей (не в ИТ).
+*   Эмпатичность, упорство, психологическая устойчивость и стабильность в кризисных ситуациях.
+
+## 🗣 Языки
+*   **Русский:** Родной
+*   **Английский:** B2 / C1 (Свободное владение, чтение тех. документации, коммуникация)
+*   **Французский:** A1
+
+## 📬 Контакты
+*   **Email:** [pusliaprus@gmail.com](mailto:pusliaprus@gmail.com)
+*   **Telegram:** [@mashaavdp](https://t.me)
+*   **GitHub:** [://github.com](https://://github.com)
