@@ -26,6 +26,7 @@ A lightweight web application designed for quick recipe discovery and minimal-ef
 *   **Key Features:** High performance, clean code, and blazing fast media assets loading optimized via Cloudinary cloud image storage.
 *   **Demo:** [lazy-cooking.netlify.app](https://lazy-cooking.netlify.app/)
 *   **Code:** [github.com/pusliaMary/Easy-cooking-frontend](https://github.com/pusliaMary/Easy-cooking-frontend.git)
+*   **stack:** HTML/SASS, JS, <b>REACT</b>, <b>Redux Toolkit</b>, <b>FSD</b>, Mobile-first, <b>Node.js</b>, <b>MongoDB</b>
 
 ### 🎨 [Portfolio Designer (Olesya Martin)](https://designer-olesya-martin.netlify.app/)
 A commercial portfolio application developed for a professional designer.
