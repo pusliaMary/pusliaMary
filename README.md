@@ -15,14 +15,14 @@ Leveraging my professional background in **Economics (including Advanced Mathema
 *   **Animation & Design:** GSAP, Figma, Mobile-first approach
 *   **Backend & DB:** Node.js, Express.js, MongoDB
 *   **Architecture & Testing:** Feature-Sliced Design (FSD), Manual Testing
-*   **Actively Learning:** Flutter / Dart, SQL (PostgreSQL), Test Automation (Python)
+*   **Actively Learning:** Flutter / Dart, SQL, Next.js, Test Automation (Python)
 
 ---
 
 ## 🚀 My Projects
 
 ### 🍳 [Lazy Cooking](https://lazy-cooking.netlify.app/)
-A lightweight web application designed for quick recipe discovery and minimal-effort meal planning.
+A lightweight web application designed for quick recipe discovery and minimal-effort meal cooking.
 *   **Key Features:** High performance, clean code, and blazing fast media assets loading optimized via Cloudinary cloud image storage.
 *   **Demo:** [lazy-cooking.netlify.app](https://lazy-cooking.netlify.app/)
 *   **Code:** [github.com/pusliaMary/Easy-cooking-frontend](https://github.com/pusliaMary/Easy-cooking-frontend.git)
@@ -67,11 +67,11 @@ graph TD
 ```
 
 ### 🗓 Phase 1: Advanced Backend & Relational Databases (Focus: Months 3–6)
-*   **Technologies:** PostgreSQL, Clean Architecture (Clean Architecture / DDD in Node.js ecosystems)
+*   **Technologies:** SQL, Clean Architecture (Clean Architecture / DDD in Node.js ecosystems)
 *   **Hands-on Application:** Migrate underlying database schemas for `Couple Investment` and `Progress` from MongoDB to PostgreSQL to guarantee strict relational data integrity. Cover all financial calculation logic with robust unit tests.
 
 ### 🐍 Phase 2: Mobile Development & Python, Automation (Focus: Months 3–6)
-*   **Technologies:** Dart & Flutter, Python, PyTest, Playwright.
+*   **Technologies:** Dart & Flutter, Next.js, Python, PyTest, Playwright.
 *   **Hands-on Application:** Re-engineer the mobile app for `Lazy Cooking` using Flutter with an emphasis on smooth, native UI transitions. Populating the app with cooking recipes tailored around a "monkey task" methodology — meaning you receive your food delivery, put on your headphones or a movie, and cook via super straightforward steps accessible even to monkey
 
 ### 🎮 Parallel Track: Gamification & Rich UI Animations
