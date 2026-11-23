@@ -60,7 +60,7 @@ A financial investment tracker built to visually demonstrate the massive compoun
 
 ```mermaid
 graph TD
-    A["📂 Phase 1: Backend & SQL"] --> B["🐍 Phase 2: Flutter/Dart & Python, AQA"]
+    A["📂 Phase 1: Backend & SQL"] --> B["🐍 Phase 2: Flutter/Dart & Next.js & Python, AQA"]
     B --> C["🎮 Phase 4: Gamification & 3D"]
     classDef default fill:#1f242c,stroke:#388bfd,stroke-width:2px,color:#fff;
     class A,B,C,D default;
