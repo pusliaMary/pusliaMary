@@ -26,29 +26,33 @@ A lightweight web application designed for quick recipe discovery and minimal-ef
 *   **Key Features:** High performance, clean code, and blazing fast media assets loading optimized via Cloudinary cloud image storage.
 *   **Demo:** [lazy-cooking.netlify.app](https://lazy-cooking.netlify.app/)
 *   **Code:** [github.com/pusliaMary/Easy-cooking-frontend](https://github.com/pusliaMary/Easy-cooking-frontend.git)
-*   **stack:** HTML/SASS, JS, <b>REACT</b>, <b>Redux Toolkit</b>, <b>FSD</b>, Mobile-first, <b>Node.js</b>, <b>MongoDB</b>
+*   **Stack:** HTML/SASS, JS, <b>REACT</b>, <b>Redux Toolkit</b>, <b>FSD</b>, Mobile-first, <b>Node.js</b>, <b>MongoDB</b>
 
 ### 🎨 [Portfolio Designer (Olesya Martin)](https://designer-olesya-martin.netlify.app/)
 A commercial portfolio application developed for a professional designer.
 *   **Key Features:** Complex user experience logic implemented seamlessly in the gallery and portfolio views. Features a secure, authenticated admin dashboard enabling the owner to fully manage all content.
 *   **Demo:** [designer-olesya-martin.netlify.app](https://designer-olesya-martin.netlify.app/)
 *   **Code:** [github.com/pusliaMary/Designer-frontend](https://github.com/pusliaMary/Designer-frontend.git)
+*   **Stack:** HTML, CSS(SASS), JS, <b>REACT</b>, <b>Redux Toolkit</b>, Backend (<b>Node.js + MongoDB</b>)
 
 ### 🌱 [EcoStore & EcoEducationPlatform](https://shop-eco-friendly.netlify.app/)
 A comprehensive educational eco-platform built to empower individuals to measure and reduce their ecological footprint.
 *   **Key Features:** Dynamic ecological breakdown modules, empirical and practical green lifestyle solutions, in perspective - eco-store and an interactive video game concept upcoming.
 *   **Demo:** [shop-eco-friendly.netlify.app](https://shop-eco-friendly.netlify.app/)
 *   **Code:** [github.com/pusliaMary/EcoStore](https://github.com/pusliaMary/EcoStore.git)
+*   **Stack:** HTML, CSS, JS, <b>REACT</b>, <b>Redux Toolkit</b>, GSAP
 
 ### 🎯 [Self-Accountability App (Progress)](https://progress-accountability.netlify.app/EasyMode)
 A personal productivity and awareness tracker designed to facilitate structured life planning—ranging from straightforward daily to-do checklists to broad, long-term personal strategy management.
 *   **Demo:** [progress-accountability.netlify.app/EasyMode](https://progress-accountability.netlify.app/EasyMode)
 *   **Code:** [github.com/pusliaMary/Progress](https://github.com/pusliaMary/Progress.git)
+*   **Stack:** HTML, CSS, JS, GSAP
 
 ### 📈 [Personal Investment App (Couple Investment)](https://couple-investment.netlify.app/)
 A financial investment tracker built to visually demonstrate the massive compounding potential of shared long-term capital investments. Try calculating across a 12+ year horizon to see the inflection point where accumulated interest surpasses actual out-of-pocket contributions.
 *   **Demo:** [couple-investment.netlify.app](https://couple-investment.netlify.app/)
 *   **Code:** [github.com/pusliaMary/Couple-Investment](https://github.com/pusliaMary/Couple-Investment.git)
+*   **Stack:** HTML, CSS, JS, <b>REACT</b>, GSAP</p>
 
 ---
 
